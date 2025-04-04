@@ -1,10 +1,5 @@
 # Predictive Modeling of Heart Disease Using BRFSS 2015 Dataset
 
-**Data Science Research Team**  
-Department of Computer Science  
-University  
-research@university.edu
-
 ## Abstract
 
 This study presents a comprehensive analysis of heart disease prediction using the BRFSS 2015 dataset. We employed multiple machine learning approaches to identify key risk factors and develop predictive models for heart disease occurrence. The analysis includes data preprocessing, handling class imbalance, and evaluation of various classification models. Our findings indicate significant correlations between certain health indicators and heart disease, providing valuable insights for public health interventions.
@@ -70,19 +65,3 @@ The models were evaluated using multiple metrics:
 - Self-reported data may contain inherent biases
 - Cross-sectional nature of the study limits causal inference
 - Some important clinical variables may not be captured in the dataset
-
-## 5. Future Work
-
-- Incorporate longitudinal data to track disease progression
-- Explore deep learning approaches for improved prediction
-- Develop interpretable models for clinical decision support
-
-## 6. Conclusion
-
-This study demonstrates the potential of machine learning in heart disease prediction using population health data. The developed models show promising results in identifying high-risk individuals, though further validation in clinical settings is recommended.
-
-## References
-
-1. Centers for Disease Control and Prevention, "Behavioral Risk Factor Surveillance System," 2015.
-2. T. Hastie, R. Tibshirani, and J. Friedman, "The Elements of Statistical Learning," Springer, 2009.
-3. World Health Organization, "Cardiovascular diseases (CVDs)," WHO Fact Sheets, 2021.
