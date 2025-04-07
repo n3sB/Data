@@ -1,8 +1,5 @@
 # Heart Disease Prediction Using Machine Learning: Analysis of BRFSS 2015 Dataset
 
-**Data Science Research Team**  
-Department of Computer Science
-
 ## Abstract
 
 This report presents a comprehensive analysis of heart disease prediction using the Behavioral Risk Factor Surveillance System (BRFSS) 2015 dataset. We employed multiple machine learning approaches to identify key risk factors and develop predictive models for heart disease occurrence. Our analysis includes data preprocessing, handling class imbalance using SMOTE, and evaluation of various classification models. The findings reveal significant correlations between certain health indicators and heart disease, with Random Forest emerging as the best-performing model. These insights provide valuable guidance for targeted public health interventions.
@@ -102,15 +99,6 @@ Several limitations should be acknowledged:
 - Cross-sectional nature limits causal inference
 - Some important clinical parameters (e.g., cholesterol levels, cardiac imaging) are not available in the dataset
 
-## 5. Conclusion
-
-This study demonstrates the effectiveness of machine learning techniques in predicting heart disease risk based on readily available health indicators. The Random Forest model in particular showed excellent predictive performance, highlighting the importance of both demographic and modifiable risk factors. The identified key risk factors align with established medical literature while providing quantitative measures of their relative importance.
-
-These findings can inform the development of targeted screening programs and public health interventions, potentially improving early detection and prevention of heart disease across diverse populations. Future work should focus on prospective validation of these models in clinical settings and incorporation of additional biomarkers to further enhance predictive accuracy.
-
 ## References
 
-1. Centers for Disease Control and Prevention, "Behavioral Risk Factor Surveillance System," 2015.
-2. L. Breiman, "Random Forests," Machine Learning, vol. 45, no. 1, pp. 5-32, 2001.
-3. N. V. Chawla, K. W. Bowyer, L. O. Hall, and W. P. Kegelmeyer, "SMOTE: Synthetic Minority Over-sampling Technique," Journal of Artificial Intelligence Research, vol. 16, pp. 321-357, 2002.
-4. World Health Organization, "Cardiovascular diseases (CVDs)," WHO Fact Sheets, 2021.
+1. World Health Organization, "Cardiovascular diseases (CVDs)," WHO Fact Sheets, 2021.
